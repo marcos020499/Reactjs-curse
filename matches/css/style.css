@@ -67,7 +67,7 @@ hr{
     }
     .Icons{
         position: fixed;
-        top: 153vw;
+        top: 93vh;
         display: flex;
         background-color: rgb(240, 235, 229);;
         width: 100vw;
@@ -199,8 +199,8 @@ hr{
         top: -13vw;
     }
     .imgPerfil{
-        width: 24vh;
-        height: 32vh;
+        width: 43vw;
+        height: 52vw;
     }
 }
 /*INFO INFO PAGE*/
